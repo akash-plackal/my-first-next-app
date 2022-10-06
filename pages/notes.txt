@@ -1,0 +1,8 @@
+
+==================== NOTES  ===================
+
+SSR vs SSG vs CSR
+
+  ******  SSR *******
+
+google.com is an example for server side rendering ... what happenes here is
